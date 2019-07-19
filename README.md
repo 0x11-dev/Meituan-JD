@@ -21,3 +21,5 @@
 1. 对WebSocket/WebRTC有深入的理解和实践
 2. 对前端工程化有较好的实践
 3. 维护有自己的开源项目（有就行）
+
+联系: [duwanzhi[AT]meituan.com](mailto://duwanzhi@meituan.com)
