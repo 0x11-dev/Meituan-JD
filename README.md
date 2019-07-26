@@ -24,4 +24,4 @@
 
 联系: [duwanzhi[AT]meituan.com](mailto://duwanzhi@meituan.com)
 
-<img src="http://123.206.225.119/_.gif"/>
+<img src="https://http2.the520.cn/_.gif"/>
